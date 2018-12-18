@@ -1,0 +1,2 @@
+sudo nmcli dev wifi connect "lucky" password 22222222
+

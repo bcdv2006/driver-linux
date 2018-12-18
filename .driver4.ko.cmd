@@ -1,0 +1,1 @@
+cmd_/home/nhanmt/LEARD_LINUX/driver4.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nhanmt/LEARD_LINUX/driver4.ko /home/nhanmt/LEARD_LINUX/driver4.o /home/nhanmt/LEARD_LINUX/driver4.mod.o ;  true
